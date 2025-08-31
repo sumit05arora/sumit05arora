@@ -35,7 +35,9 @@
 ![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-CSA-brightgreen)  
 ![ITIL](https://img.shields.io/badge/ITIL-v2-blue)  
 ![TMF](https://img.shields.io/badge/TMF-Foundation-lightgrey)  
-![CloudU](https://img.shields.io/badge/CloudU-Rackspace-yellow)  
+![CloudU](https://img.shields.io/badge/CloudU-Rackspace-yellow)
+![All Badges ServiceNow](https://learning.servicenow.com/lxp?id=nl_public&user=sa00873634550619)
+Upcoming:
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)  
 ![ISACA-AAIA](https://img.shields.io/badge/ISACA-AAIA-blue)  
 ![ISACA-AAISM](https://img.shields.io/badge/ISACA-AAISM-darkblue)  
@@ -50,6 +52,7 @@
 ---
 
 ## 📈 My Current Focus  
+- 🚀 Service Now in Telecom
 - 🚀 Transitioning into **AI Security & Cybersecurity** roles  
 - 🔐 Hands-on projects combining **AI + DevSecOps**  
 - 📝 Sharing knowledge via repos, notes, and blogs  
@@ -59,8 +62,7 @@
 ## 🔗 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumitarora05)  
 - 🐙 [GitHub](https://github.com/sumit05arora/Telecom-Portfolio)  
-- ✍️ Blog ([https://aisecops.hashnode.dev])
--   
+- ✍️ [Blog](https://aisecops.hashnode.dev)
 
 ---
 
